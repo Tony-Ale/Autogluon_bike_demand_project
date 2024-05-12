@@ -1,6 +1,6 @@
 # Predict Bike Sharing Demand with AutoGluon
 
-Kaggle link: `https://www.kaggle.com/competitions/bike-sharing-demand`
+[Link to Kaggle bike demand project](https://www.kaggle.com/competitions/bike-sharing-demand)
 
 ## Introduction to AWS Machine Learning Final Project
 
